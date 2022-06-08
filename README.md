@@ -11,15 +11,30 @@ This project report illustrates the most appropriate performance measures to be 
 ### Dataframe Implementation
 
 
-* 
+**Dataset
 
+
+The dataset contained transactions from a European credit card holder for two days in September 2013. Very few transactions are actually fraudulent (less than 1%). The data set is highly skewed, consisting of 492 frauds in a total of 284,807 observations. This resulted in only 0.172% fraud cases. The low number of fraudulent transactions justifies this skewed set.The dataset consists of numerical values from the 28 ‘Principal Component Analysis (PCA)’ transformed features, namely V1 to V28.
 
 ### Methodology
 
-**K-means Clustering Algorithm
+
+**Proposed Methodology
 
 
-**Vectorized backtesting
+*Deep Neural Networking (DNN)
+
+*Random Forest (RF)
+
+*Support Vector Machine (SVM)
+
+*XGBoost Classifier (XGB)
+
+*Quadratic Discriminant Analysis (QDA)
+
+
+
+
 
 
 ### Analysis Final Performence
